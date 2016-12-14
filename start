@@ -1,0 +1,5 @@
+start.bat
+start:
+  application;
+  app.cpp
+end
